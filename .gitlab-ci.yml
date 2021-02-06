@@ -1,0 +1,16 @@
+image: alpine:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  script:
+    - apk add --update-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/community/ zola
+    - zola build
+
+  artifacts:
+    paths:
+      - public
+
+  only:
+    - master
