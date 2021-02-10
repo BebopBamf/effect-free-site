@@ -9,6 +9,11 @@ build_search_index = true
 
 theme = "DeepThought"
 
+taxonomies = [
+    { name = "categories", paginate_by = 10 },
+    { name = "tags", paginate_by = 10 },
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -23,6 +28,9 @@ navbar_items = [
     { url = "$BASE_URL/tags", name = "Tags" },
     { url = "$BASE_URL/categories", name = "Categories" }
 ]
+
+[extra.author]
+name = "E Mendoza"
 
 [extra.social]
 github = "BebopBamf"
