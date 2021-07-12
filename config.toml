@@ -23,6 +23,8 @@ highlight_code = true
 
 [extra]
 
+toc = true
+
 navbar_items = [
     { url = "$BASE_URL/", name = "Home" },
     { url = "$BASE_URL/blog", name = "Blog" },
@@ -33,6 +35,9 @@ navbar_items = [
 
 [extra.author]
 name = "E Mendoza"
+
+[extra.analytics]
+google = "G-1MVCDDVH6D"
 
 [extra.social]
 github = "BebopBamf"
