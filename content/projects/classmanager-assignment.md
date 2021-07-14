@@ -162,6 +162,6 @@ export default withRouter(TeacherDashboard);
 
 ## Project Sources:
 
-https://github.com/emendozaspx/classmanager
+<https://github.com/emendozaspx/classmanager>
 
-https://github.com/emendozaspx/classmanager_frontend
+<https://github.com/emendozaspx/classmanager_frontend>
