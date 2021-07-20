@@ -16,6 +16,8 @@ for simplicity and partly because I didn't know any better. It used react-router
 and react. State management was not implemented properly, but overall was a good
 start to web development.
 
+<!-- more -->
+
 # Description
 
 The documentation was written using microsoft word documents. I absolutely hate

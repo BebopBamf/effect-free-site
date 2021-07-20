@@ -36,9 +36,6 @@ navbar_items = [
 [extra.author]
 name = "E Mendoza"
 
-[extra.analytics]
-google = "G-1MVCDDVH6D"
-
 [extra.social]
 github = "BebopBamf"
 gitlab = "BebopBamf"
