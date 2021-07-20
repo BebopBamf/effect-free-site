@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 categories = ["Lockdown Code"]
-tags = ["enterprise web development", "backend web development", "REST APIs", "Functional Programming", "Planning", "Agile", "Dev Ops"]
+tags = ["enterprise web development", "backend web development", "REST APIs", "Functional Programming", "Planning", "Agile", "DevOps"]
 +++
 
 In highschool I had a assignment that nearly killed me. This assignment was
