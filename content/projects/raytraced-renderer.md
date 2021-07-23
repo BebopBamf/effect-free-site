@@ -138,6 +138,6 @@ void main() {
 
 ## Sources
 
-<https://gitlab.com/BebopBamf/vulkan-renderer-rs/-/tree/master>
+<https://gitlab.com/BebopBamf/vulkan-renderer-rs>
 
 <https://gitlab.com/BebopBamf/ray-tracing-rs>

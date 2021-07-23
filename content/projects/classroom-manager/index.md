@@ -34,7 +34,7 @@ trouble integrating redoc or swagger into the front end stack. Instead I used
 the redoc cli to generate a static html page with everything included and
 created a route and a handler on the back end for serving it.
 
-```fsharp
+```fs
 // ---------------------------------
 // Web app
 // ---------------------------------
@@ -49,7 +49,7 @@ let webApp =
 
 ```
 
-```fsharp
+```fs
 let handleSpec =
     fun (next: HttpFunc) (ctx: HttpContext) ->
         task { return! ctx.WriteHtmlFileAsync @"../../docs/api/redoc-static.html" }
