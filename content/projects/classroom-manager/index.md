@@ -1,6 +1,6 @@
 +++
 title = "The Classroom Manager Refresh"
-date = 2021-07-20
+date = 2021-07-26
 draft = false
 
 [taxonomies]
